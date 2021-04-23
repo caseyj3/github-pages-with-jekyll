@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Chevron 6 Encoded"
 ---
 
-I'm glad you are here. I plan to talk about ...
+SG-X, you have a go 
